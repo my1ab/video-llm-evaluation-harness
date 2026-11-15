@@ -1,14 +1,1 @@
-# Python cache and virtual environments
-__pycache__/
-*.pyc
-*.py.class
-venv/
-*.env
-
-# Evaluation artifacts
-results/
-logs/
-
-# Dataset caches
-.cache/
-.huggingface/
+MCP-Universe evaluator fixture: .gitignore
